@@ -1,6 +1,6 @@
 # WAD2022-DEA-1202201005
 
-## Praktikum OOP with EAD Laboratory
+## Praktikum WAD with EAD Laboratory
 
 ### Modul
 - modul 1
