@@ -2,3 +2,7 @@
 
 ## Praktikum OOP with EAD Laboratory
 
+### Modul
+- modul 1
+- modul 2
+- modul 3
