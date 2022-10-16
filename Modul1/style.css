@@ -52,7 +52,7 @@ p {
 }
 
 .video iframe {
-    width: 60%;
+    width: 55%;
 }
 
 /* tentang kami */
@@ -72,7 +72,7 @@ p {
 
 /* lokasi kami */
 .maps {
-    padding-left: 80px;
+    padding-left: 0px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
