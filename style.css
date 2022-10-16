@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+
+body
+{
+    justify-content: center;
+    align-items: center;
+}
+
+/* nav bar */
+nav {
+    background-color: hsl(202, 92%, 91%);
+    box-shadow: 0 4px 8px 0 rgba(199, 199, 199, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.collapse {
+    margin-left: 300px;
+}
+
+.nav-item:hover a {
+    color: rgb(230, 62, 118);
+}
+
+/* home */
+.container h1 {
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.home {
+    padding-bottom: 90px;
+}
+
+/* video */
+.video {
+    margin-top: 40px;
+    justify-content: center;
+    display: flex;
+    height: 400px;
+
+}
+
+.video iframe {
+    width: 60%;
+}
+
+/* tentang kami */
+.tentang-kami {
+    background-color: hsl(202, 92%, 91%);
+    padding-bottom: 50px;
+}
+
+.row {
+    padding-top: 20px;
+    text-align: justify;
+}
+
+.row ul{
+    font-size: 16px;
+}
+
+/* lokasi kami */
+.maps {
+    padding-left: 80px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.maps {
+    display: flex;
+    justify-content: center;
+}
+
+.lokasi{
+    padding-top: 80px;
+    padding-bottom: 170px;
+}
+
+/* jenis mobil */
+.jenis-mobil {
+    background-color: hsl(202, 92%, 91%);
+    padding-bottom: 70px;
+}
+
+.card1 .row
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card1 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card1 .img {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.card2 .row
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card2 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card2 .img {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-left: 20px;
+}
+
+/* form */
+.daftar-reservasi {
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.daftar-reservasi h1 {
+    padding-bottom: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: hsl(202, 100%, 90%);
+    display: flex;
+    justify-content: center;
+}
