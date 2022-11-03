@@ -12,7 +12,7 @@
             <body>
                 <?php
                     $idNumber = rand(2340, 3000);
-                    $name = $_GET['nama'];
+                    $name = $_POST['nama'];
                     $book = $_POST['book'];
                     $duration = $_POST['duration'];
                     $return = $book." + ".$duration." days";

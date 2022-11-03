@@ -39,7 +39,7 @@
             <div class="container d-flex justify-content-center p-4">
                 <div class="row">
                     <div class="col-sm-6 mr-3">
-                        <form action="Demitria_mybooking.php" style="padding: 20px">
+                        <form action="Demitria_mybooking.php" method="POST" style="padding: 20px">
                             <div class="form-group">
                                 <label for="nama">Nama</label>
                                 <input type="text" class="form-control" placeholder="Nama_NIM" name="nama">

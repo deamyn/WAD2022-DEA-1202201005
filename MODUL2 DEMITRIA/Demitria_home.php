@@ -115,7 +115,7 @@
                     </div>
                         <div class="card-footer d-flex justify-content-center">
                             <a class="btn btn-warning"
-                                href="Demitriabooking.php?car=mini_cooper&picture=./assets/mini-cooper.png">Book Now</a>
+                                href="Demitria_booking.php?car=mini_cooper&picture=./assets/mini-cooper.png">Book Now</a>
                         </div>
                     </div>
                 </div>
