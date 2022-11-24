@@ -1,8 +1,8 @@
-<?php
+                    <?php
 
-    $conn = mysqli_connect('localhost', 'root', '', 'modul3');
+                        $conn = mysqli_connect('localhost', 'root', '', '');
 
-    if (!$conn){
-        die("Gagal terhubung dengan database: " . mysqli_connect_error());
-    }
-?>
+                        if (!$conn){
+                            die("Gagal terhubung dengan database: " . mysqli_connect_error());
+                        }
+                    ?>
