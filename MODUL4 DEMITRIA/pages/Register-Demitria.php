@@ -45,7 +45,7 @@
             <button type="submit" class="btn" style="margin-top: 40px; background-color: #FFE1E1; height: 50px; width: 120px; font-weight: bold;">Daftar</button>
         </form>
         <br>
-        <h6 class="mb-4">Anda sudah punya akun? <a href="login.php">Login</a></h6>
+        <h6 class="mb-4">Anda sudah punya akun? <a href="pages/login.php">Login</a></h6>
     </div>
 </section>
 

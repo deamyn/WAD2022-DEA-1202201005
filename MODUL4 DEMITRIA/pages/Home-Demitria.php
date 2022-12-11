@@ -56,7 +56,7 @@ function onClick($result)
       <?php else : ?>
         <div class="navbar-nav w-100 d-flex justify-content-between">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
-          <a class="nav-link" href="./Login-Demitria.php">Login</a>
+          <a class="nav-link" href="pages/Login-Demitria.php">Login</a>
         </div>
       <?php endif; ?>
     </div>

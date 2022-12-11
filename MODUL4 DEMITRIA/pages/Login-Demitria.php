@@ -41,11 +41,11 @@ require '../config/connector.php';
             <input class="form-check mb-0" type="checkbox" name="remember" id="remember" style="width: 30px;height:30px;">
             <label>Remember Me</label>
             <br>
-        
+
             <button type="submit" class="btn" style="margin-top: 40px; background-color: #FFE1E1; height: 50px; width: 120px; font-weight: bold;">Login</button>
         </form>
         <br>
-        <h6 class="mb-4">Anda belum punya akun? <a href="Register-Demitria.php">Daftar</a></h6>
+        <h6 class="mb-4">Anda belum punya akun? <a href="pages/Register-Demitria.php">Daftar</a></h6>
     </div>
 </section>
 
